@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "eco-track-client-site",
-    "staging": "civix-auth-system"
-  },
-  "targets": {},
-  "etags": {}
-}
